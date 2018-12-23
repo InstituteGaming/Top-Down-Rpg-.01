@@ -1,10 +1,4 @@
-﻿/*
- * PlayerController - user movements of the player. (INSERT SOME INFO HERE)
- * @author Kyle Pellechia 
- */
-
-
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
